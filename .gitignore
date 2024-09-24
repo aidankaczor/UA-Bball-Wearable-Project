@@ -25,6 +25,18 @@ venv.bak/
 /CV/training/Player_detect-1/Player_detect-1/test/labels/**
 /CV/training/Player_detect-1/Player_detect-1/train/labels/**
 /CV/training/Player_detect-1/Player_detect-1/valid/labels/**
+/CV/training/basketball-players-detection-2/
+/CV/training/basketball-players-detection-2/**
+/CV/training/basketball-players-detection-2/basketball-players-detection-2/**
+/CV/training/basketball-players-detection-2/basketball-players-detection-2/test/**
+/CV/training/basketball-players-detection-2/basketball-players-detection-2/train/**
+/CV/training/basketball-players-detection-2/basketball-players-detection-2/valid/**
+/CV/training/basketball-players-detection-2/basketball-players-detection-2/test/images/**
+/CV/training/basketball-players-detection-2/basketball-players-detection-2/train/images/**
+/CV/training/basketball-players-detection-2/basketball-players-detection-2/valid/images/**
+/CV/training/basketball-players-detection-2/basketball-players-detection-2/test/labels/**
+/CV/training/basketball-players-detection-2/basketball-players-detection-2/train/labels/**
+/CV/training/basketball-players-detection-2/basketball-players-detection-2/valid/labels/**
 
 # predicted videos are too large for GitHub, need to exclude them
 /CV/runs/detect/predict/
